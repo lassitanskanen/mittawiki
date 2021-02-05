@@ -2,9 +2,9 @@
 title: Ohjelmat
 description: Paikkatieto-ohjelmat
 published: true
-date: 2021-02-05T20:30:14.936Z
-tags: paikkatieto, qgis, ohjelmat
-editor: markdown
+date: 2021-02-05T20:30:17.001Z
+tags: 
+editor: undefined
 dateCreated: 2020-10-29T19:38:55.138Z
 ---
 
