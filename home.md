@@ -1,10 +1,10 @@
 ---
-title: Etusivu
+title: Mikä on Mittawiki?
 description: Maanmittareitten tietokanta
 published: true
-date: 2020-10-29T19:30:59.113Z
+date: 2021-02-05T21:41:12.165Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-07-20T19:38:52.989Z
 ---
 
