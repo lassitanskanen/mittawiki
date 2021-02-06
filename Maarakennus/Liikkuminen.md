@@ -2,15 +2,15 @@
 title: Työmaalla liikkuminen
 description: 
 published: true
-date: 2020-10-29T19:29:29.196Z
+date: 2021-02-06T05:00:30.165Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-07-21T17:17:18.459Z
 ---
 
 # Työmaalla liikkuminen ja työskentely
 
-Työmaalla liikkuessa tulee olla erityisen varovainen ja suojavarusteita on syytä käyttää. Aluksi esimerkiksi suojalasit voivat tuntua tarpeettomilta, mutta mielipiteesi voi muuttua, kun kivensirpale lentää suojalaseihisi rikkoen ne, muttei verkkokalvoasi. On täysin tervejärkistä kieltäytyä työstä, johon ei tarjota riittäviä turvavarusteita tai jos työ on liian vaarallista.
+Työmaalla liikkuessa tulee olla erityisen varovainen ja suojavarusteita on syytä käyttää. Aluksi esimerkiksi suojalasit voivat tuntua tarpeettomilta, mutta mielipiteesi voi muuttua, kun kivensirpale lentää suojalaseihisi rikkoen ne, muttei verkkokalvoasi. On täysin tervejärkistä pidättäytyä työstä, johon ei tarjota riittäviä turvavarusteita tai jos työ on liian vaarallista.
 
 Varmista toiminnallasi ja kertomalla muille työmaan työntekijöille, että missä työskentelet. Jos menet mittaamaan jotain syvää kaivantoa työntekijöiden kahvitauon aikana ja he palaavat vähin äänin kahvitauolta ja ensimmäisenä he jatkavat kaivannon täyttämistä hiekalla, voit saada päähäsi muutaman kuution yllätyksen. Kerro koneiden kuskeille ja muille työntekijöille, että menet mittaamaan alueelle, jolla he työskentelevät.
 
