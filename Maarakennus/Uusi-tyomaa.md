@@ -2,9 +2,9 @@
 title: Uusi työmaa
 description: Uudelle työmaalle valmistautuminen
 published: true
-date: 2020-11-08T15:05:57.472Z
+date: 2021-02-06T05:05:22.039Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-07-21T17:09:39.029Z
 ---
 
@@ -26,4 +26,4 @@ On suositeltavaa soittaa etukäteen työnjohtajalle/muulle vastuuhenkilölle ty�
 
 Perehdytyksessä yleensä kerrotaan työmaasta, turvallisuustekijöistä, mahdollisista vaaratilanteista yms. Osalla työmaista on käytössä Valttikortit, eli kortit jotka leimataan laitteessa kun saavut tai lähdet työmaalta. 
 
-Työnjohtajalta kuulet yleensä mitä merkkejä tai mittauksia sinun halutaan tekevän. 
+Työnjohtajalta kuulet yleensä mitä merkkejä tai mittauksia sinun halutaan tekevän. Kannattaa keskustella myös työtä suorittavien henkilöiden kanssa, että he varmasti ymmärtävät merkkaamasi kohteet. 
