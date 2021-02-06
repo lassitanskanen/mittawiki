@@ -2,7 +2,7 @@
 title: Työmaalla liikkuminen
 description: 
 published: true
-date: 2021-02-06T05:00:30.165Z
+date: 2021-02-06T05:00:37.406Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-21T17:17:18.459Z
