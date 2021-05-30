@@ -2,7 +2,7 @@
 title: Handbookit
 description: Käytännön mittauksessa on nopeita tilanteita, joissa tarvitaan nopeaa tiedonhakua. Handbookit ovat kategorisoitu kohteen mukaan. Lue online tai tulosta mukaan maastoon!
 published: true
-date: 2021-05-30T19:07:48.141Z
+date: 2021-05-30T19:08:17.744Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-21T17:53:17.911Z
@@ -92,7 +92,6 @@ Kova pinta
 - betoninaula (pöllönsilmä, kaupassa lyöntiniitti)
 	- käyttö: porataan ensin reikä kiviporalla, asetetaan betoninaula     		reikään ja vasaroidaan laajentaja sisään.
 - liitu, tussi, kynä
-  - 
 
 Pehmeä pinta
 - korkotikku puurimasta (kova maa / sora)
