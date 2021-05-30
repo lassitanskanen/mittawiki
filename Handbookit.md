@@ -2,9 +2,9 @@
 title: Handbookit
 description: Käytännön mittauksessa on nopeita tilanteita, joissa tarvitaan nopeaa tiedonhakua. Handbookit ovat kategorisoitu kohteen mukaan. Lue online tai tulosta mukaan maastoon!
 published: true
-date: 2020-11-08T15:17:02.289Z
+date: 2021-05-30T19:07:48.141Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-07-21T17:53:17.911Z
 ---
 
@@ -85,22 +85,27 @@ NN = 1. tarkkavaaitus 1892–1910. Ensimmäinen valtakunnallinen korkeusjärjest
 # Handbook 5: Maastomerkintä, merkit rakentajille
 
 Kova pinta
-- Asfalttinaula (asfaltti)
-- Merkintä sprayt
-- betoninaula (pöllönsilmä), porataan ensin reikä kiviporalla
+- asfalttinaula
+	- käyttö: vasaralla haluttuun kohtaan kuten puunaulatkin
+- merkintäsprayt (kaupassa esim. Mercalin RS-merkintämaali)
+	- käyttö: suihke tulee pullon päältä
+- betoninaula (pöllönsilmä, kaupassa lyöntiniitti)
+	- käyttö: porataan ensin reikä kiviporalla, asetetaan betoninaula     		reikään ja vasaroidaan laajentaja sisään.
 - liitu, tussi, kynä
+  - 
 
 Pehmeä pinta
 - korkotikku puurimasta (kova maa / sora)
-- merkintä sprayt
+- merkintäsprayt
 
 Korkotikku + korkolappu ilmaisee konekuskille mille korolle maanpinta tulee. Tavallisesti korkolappu laitetaan esim. +0.5m, jolloin konekuski käy mittanauhalla tarkistamassa tilanteen. Hän voi tuoda myös tasolaserin ja asemoi sen vastaamaan mittaamaasi lappua. Sinulla tulee olla autossa aina mukana 
 - valmiiksi sahattuja ja teroitettuja puutikkuja (esim. 10kpl 1.5m ja 5kpl 2m)
-- korkolappuja
+- korkolappuja (sihtilappu)
 - nitoja + niittejä
 - kirves
 - puusaha
 - käsimittanauha
+- tusseja sihtilappuun merkkausta varten
 
 *Kuva korkolapusta oikeinpäin*
 *Kuva valmiista mittatikusta*
