@@ -2,7 +2,7 @@
 title: Laserkeilaus
 description: 
 published: true
-date: 2021-05-30T18:38:27.924Z
+date: 2021-05-30T18:39:36.776Z
 tags: laser, laserkeilaus, keilaus
 editor: markdown
 dateCreated: 2021-05-30T18:37:06.317Z
