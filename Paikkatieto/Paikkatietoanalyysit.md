@@ -2,7 +2,7 @@
 title: Paikkatietoanalyysit
 description: Perusteet analyyseistä
 published: true
-date: 2021-05-04T20:06:01.788Z
+date: 2021-05-30T18:04:29.863Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-04T20:06:01.788Z
@@ -15,4 +15,3 @@ Paikkatietoanalyyseillä tarkoitetaan lähtötietojen jalostamista uudeksi tiedo
 
 - Intersect eli leikkaavuus
 - Buffer, puskurivyöhykkeen käyttäminen
-- 
