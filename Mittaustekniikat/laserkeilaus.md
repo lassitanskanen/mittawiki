@@ -2,7 +2,7 @@
 title: Laserkeilaus
 description: 
 published: true
-date: 2021-05-30T18:37:06.317Z
+date: 2021-05-30T18:38:27.924Z
 tags: laser, laserkeilaus, keilaus
 editor: markdown
 dateCreated: 2021-05-30T18:37:06.317Z
@@ -16,3 +16,6 @@ Mittausta voidaan tehd채 staattisesta tai liikkuvasta, maasta tai ilmasta. Nyky�
 > paras mittauss채채 laserkeilaukselle on pilvinen, mutta valoisa.
 
 ## Yleisimmmin k채ytetyt laserkeilaintyypit
+- Staattinen keilain
+- Mobiilikeilain autossa, selk채repussa, lentokoneessa tai dronessa
+
