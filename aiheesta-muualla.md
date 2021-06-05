@@ -2,7 +2,7 @@
 title: Aiheesta muualla
 description: 
 published: true
-date: 2021-06-05T19:43:23.787Z
+date: 2021-06-05T19:44:51.159Z
 tags: linkit
 editor: markdown
 dateCreated: 2021-06-05T19:43:23.787Z
@@ -13,7 +13,7 @@ dateCreated: 2021-06-05T19:43:23.787Z
 Pyritään ylläpitämään yleisimmät ja käytetyimmät linkit.
 
 ### Tietopankit opiskeluun
-maanmittauslaitos.fi/tutkimus teematiedosta ja julkaisuista löytyy syvällistä asiantuntemusta.
+[Maanmittauslaitos](maanmittauslaitos.fi/tutkimus){:target="_blank"} teematiedosta ja julkaisuista löytyy syvällistä asiantuntemusta.
 wiki.gis.com on yhteisön ylläpitämä englanninkielinen sivusto.
 
 ### Avoimet ohjelmat
