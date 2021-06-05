@@ -2,7 +2,7 @@
 title: Korkeusmallit
 description: 
 published: true
-date: 2021-06-05T19:05:38.100Z
+date: 2021-06-05T19:06:33.833Z
 tags: korkeusmalli
 editor: markdown
 dateCreated: 2021-06-05T18:58:21.736Z
