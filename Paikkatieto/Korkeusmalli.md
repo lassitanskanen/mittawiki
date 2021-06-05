@@ -2,7 +2,7 @@
 title: Korkeusmallit
 description: 
 published: true
-date: 2021-06-05T18:58:21.736Z
+date: 2021-06-05T19:05:38.100Z
 tags: korkeusmalli
 editor: markdown
 dateCreated: 2021-06-05T18:58:21.736Z
@@ -15,10 +15,10 @@ dateCreated: 2021-06-05T18:58:21.736Z
 
 > Aiheesta tarkemmin: https://www.maanmittauslaitos.fi/tutkimus/teematietoa/korkeusmallit
 
-Aineiston käyttäminen QGISsissä:
-Saatavilla on GeoTIFF ja ASCII GRID formaatit. Ensimmäisen voi avata suoraan jolloin näkyviin tulee pikseli-esitys korkeusmallista. Jokaiseen pikseliin on asetettu pisteen korkeus N2000 korkeusjärjestelmässä. Yhden pikselin koko on maastossa 2m x 2m.
+### Aineiston käyttäminen QGISsissä:
+Saatavilla on [GeoTIFF](/fi/Formaatit/GeoTIFF) ja [ASCII-Grid](/fi/Formaatit/ASCII-Grid) -formaatit. Ensimmäisen voi avata suoraan jolloin näkyviin tulee pikseli-esitys korkeusmallista. Jokaiseen pikseliin on asetettu pisteen korkeus N2000 korkeusjärjestelmässä. Yhden pikselin koko on maastossa 2m x 2m.
 
-
+ASCII Grid formaatti ei avaudu suoraan QGISissa ja sen on tarkoitettu käytettäväksi automaatioiden ja rutiiniajojen kanssa.
 
 
 Lähteet:
