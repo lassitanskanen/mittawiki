@@ -2,7 +2,7 @@
 title: Aiheesta muualla
 description: 
 published: true
-date: 2021-06-05T19:45:40.522Z
+date: 2021-06-05T20:24:19.296Z
 tags: linkit
 editor: markdown
 dateCreated: 2021-06-05T19:43:23.787Z
@@ -16,10 +16,22 @@ Pyritään ylläpitämään yleisimmät ja käytetyimmät linkit.
 maanmittauslaitos.fi/tutkimus teematiedosta ja julkaisuista löytyy syvällistä asiantuntemusta.
 wiki.gis.com on yhteisön ylläpitämä englanninkielinen sivusto.
 
-### Avoimet ohjelmat
+### Avoimet työpöytäohjelmat
 qgis.org on monipuolinen paikkatietosovellus.
-posgresql.org tietokanta PostGIS laajennoksella on käytännössä de facto paikkatietotietokanta.
+wetransform.to tarjoaa työkaluja datamallien yhteensovitukseen ja tiedon muunnokseen
 
-### Maksulliset ohjelmat
+### Avoimet palvelinohjelmat
+geoserver.org saa helposti aikaan tarvittavat paikkatietorajapinnat.
+posgresql.org tietokanta PostGIS laajennoksella on käytännössä de facto paikkatietotietokanta.
+deegree.org tarjoaa työkalut rajapintoihin ja visualisointeihin.
+
+### Maksulliset työpöytäohjelmat
 safe.com kehittämä FME on laajasti käytetty aineistojen muunnostyökalu.
 esri.fi kehittää laajasti paikkatietotyökaluja eri tarpeisiin.
+
+### Selainpohjaiset aineistojen katseluohjelmat
+paikkatietoikkuna.fi löytyy laajasti aineistoja eri tuottajilta.
+
+### Tekniset rajapinnat (avoimet)
+maanmittauslaitos.fi/rajapinnat/kartat löytyy perustietoa suomesta
+gispohelp.zendesk.com/hc/fi/articles/208159815-Avoimen-datan-WMS-ja-WFS-karttapalveluita löytyy koontia rajapinnoista.
