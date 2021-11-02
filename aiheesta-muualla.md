@@ -2,17 +2,18 @@
 title: Aiheesta muualla
 description: 
 published: true
-date: 2021-06-05T20:36:04.158Z
+date: 2021-11-02T20:56:52.535Z
 tags: linkit
 editor: markdown
 dateCreated: 2021-06-05T19:43:23.787Z
 ---
 
 # Aiheesta muualla
-**Jokaisen paikkatiedon parissa työskentelevän linkkilista**
+**Jokaisen maanmittauksen parissa työskentelevän linkkilista**
 Pyritään ylläpitämään yleisimmät ja käytetyimmät linkit.
 
 ### Tietopankit opiskeluun
+Pasi Laurilan kirja [Mittaus- ja kartoitustekniikan perusteet](http://www.ramk.fi/fi/Palvelut-tyoelamalle/Julkaisutoiminta/Tekniikka-ja-liikenne/Mittaus--ja-kartoitustekniikan-perusteet)
 maanmittauslaitos.fi/tutkimus teematiedosta ja julkaisuista löytyy syvällistä asiantuntemusta.
 wiki.gis.com on yhteisön ylläpitämä englanninkielinen sivusto.
 
