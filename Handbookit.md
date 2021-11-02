@@ -2,7 +2,7 @@
 title: Handbookit
 description: Käytännön mittauksessa on nopeita tilanteita, joissa tarvitaan nopeaa tiedonhakua. Handbookit ovat kategorisoitu kohteen mukaan. Lue online tai tulosta mukaan maastoon!
 published: true
-date: 2021-05-30T19:08:17.744Z
+date: 2021-11-02T19:52:57.209Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-21T17:53:17.911Z
@@ -80,6 +80,8 @@ NN = 1. tarkkavaaitus 1892–1910. Ensimmäinen valtakunnallinen korkeusjärjest
 - LandXML
 	- Millä saan auki? Trimble Business Center ja 3D-WIN: Avaa LandXML
   - http://www.3d-system.net/wiki/index.php/tiedosto/formaatit/20-landxml-tiedostojen-luku
+- .gpkg (Geopackage)
+	- Millä saan auki? QGIS.
 
 
 # Handbook 5: Maastomerkintä, merkit rakentajille
