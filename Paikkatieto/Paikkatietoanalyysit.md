@@ -2,7 +2,7 @@
 title: Paikkatietoanalyysit
 description: Perusteet analyyseistä
 published: true
-date: 2021-11-02T20:05:22.850Z
+date: 2021-11-02T20:07:17.333Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-04T20:06:01.788Z
@@ -13,15 +13,14 @@ Paikkatietoanalyyseillä tarkoitetaan lähtötietojen jalostamista uudeksi tiedo
 
 ## Yleisimmät käyttökohteet
 
-- Intersect eli leikkaavuus
+- Intersect eli leikkaavuuskysely
 Tehtävänä on esimerkiksi selvittää montako risteystä on tietyllä matkalla. Lähtötiedoiksi otetaan tieverkko josta otetaan haluttu pätkä tietä. Analyysille syötetään tiepätkä ja loppu tieverkko. Muodostuu esimerkiksi pisteaineisto risteyspisteistä.
 
 - Saavutettavuusanalyysi
 Tehtävänä on esimerkiksi selvittää kuinka laajalta alueelta yhdelle metrolaiturille pääsee viidessä minuutissa. Lähtötiedoiksi otetaan katu/tieverkko viivoina ja metrolaituri pisteenä. Analyysi tuottaa segmentit esimerkiksi minuutin välein perustuen tiettyyn kävelyvauhtiin.
 
-- Shortest path finder
+- Lyhin reitti (shortest path)
 Tehtävänä on esimerkiksi selvittää lyhin matka pisteestä A pisteeseen B. Lähtötiedoiksi katu/tieverkko ja alku sekä loppupisteet. Analyysi hakee lyhimmän reitin ja antaa sen pituuden.
-
 
 
 ## Analyysin apumenetelmiä
