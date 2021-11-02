@@ -2,7 +2,7 @@
 title: Aiheesta muualla
 description: 
 published: true
-date: 2021-11-02T20:56:52.535Z
+date: 2021-11-02T20:57:14.869Z
 tags: linkit
 editor: markdown
 dateCreated: 2021-06-05T19:43:23.787Z
@@ -13,7 +13,7 @@ dateCreated: 2021-06-05T19:43:23.787Z
 Pyritään ylläpitämään yleisimmät ja käytetyimmät linkit.
 
 ### Tietopankit opiskeluun
-Pasi Laurilan kirja [Mittaus- ja kartoitustekniikan perusteet](http://www.ramk.fi/fi/Palvelut-tyoelamalle/Julkaisutoiminta/Tekniikka-ja-liikenne/Mittaus--ja-kartoitustekniikan-perusteet)
+Pasi Laurilan kirja [Mittaus- ja kartoitustekniikan perusteet](http://www.ramk.fi/fi/Palvelut-tyoelamalle/Julkaisutoiminta/Tekniikka-ja-liikenne/Mittaus--ja-kartoitustekniikan-perusteet) (PDF-linkki löytyy sivulta)
 maanmittauslaitos.fi/tutkimus teematiedosta ja julkaisuista löytyy syvällistä asiantuntemusta.
 wiki.gis.com on yhteisön ylläpitämä englanninkielinen sivusto.
 
